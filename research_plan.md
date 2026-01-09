@@ -1,4 +1,4 @@
-# Comprehensive Research Plan: Multilingual Legal Dialogue System for Access-to-Justice
+# Comprehensive Research Plan: Multilingual Legal Dialogue System 
 
 ## 1. Dataset Analysis & Stratified Splitting Strategy
 
